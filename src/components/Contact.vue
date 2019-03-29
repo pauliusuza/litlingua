@@ -2,7 +2,7 @@
   <div class="page page-contact">
       <h4>{{ $t('contact_t1') }}</h4>
       <iframe width="100%" height="300" frameborder="0" style="border:0"
-        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCj2Y6ojAN37QwNEKWw5QWVErxsHLZLkSM&q=Litlingua" allowfullscreen>
+        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCj2Y6ojAN37QwNEKWw5QWVErxsHLZLkSM&q=Visschersplein 75A, 3511 LX Utrecht" allowfullscreen>
       </iframe>
       <p>{{ $t('contact_l1') }}</p>
       <p>{{ $t('contact_l2') }}</p>
